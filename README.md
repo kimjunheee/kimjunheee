@@ -1,4 +1,4 @@
-## Hi there 👋 I AM JUNI KIM
+
 
 <!--
 **kimjunheee/kimjunheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <h1> Welcome to JUNI's github</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=kimjunheee&show_icons=true&theme=dark&hide=stars,contribs&count_private=true&"/>
+</div>
+<br>
+
 <h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
   <h3>front-end</h3>
@@ -98,3 +105,5 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/junipang0826@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
+
+
