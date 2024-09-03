@@ -31,9 +31,6 @@ Here are some ideas to get you started:
   <h3>back-end</h3>
   <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/mybatis-2C2C32?style=for-the-badge" />&nbsp
     <img src="https://img.shields.io/badge/JPA-2C2C32?style=for-the-badge" />&nbsp
   </div>
@@ -67,6 +64,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align="center">
+  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/nginx-DD2C00?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Jboss-2C2C32?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/wildfly-2C2C32?style=for-the-badge" />&nbsp
